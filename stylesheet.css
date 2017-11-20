@@ -29,3 +29,19 @@ div {
     margin: 0 auto;
     width: 300px;
 }
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 1em; 
+  text-indent: -.7em;
+  color: Ivory ;
+}
+
+li::before {
+  content: "• ";
+  color: white;
+}
