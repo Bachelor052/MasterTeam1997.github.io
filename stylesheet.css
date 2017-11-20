@@ -24,3 +24,8 @@ img {
 	border-style: outset;
     border-color: gold;
 }
+div {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
