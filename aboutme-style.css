@@ -1,6 +1,14 @@
 p {
      color: white;	
 }
+P:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+
+}
 body {
   font-family: Arial;
     background-color: rgb(89,85,71);
