@@ -2,12 +2,7 @@ p {
      color: white;	
 }
 P:first-letter {
-    float: left;
-    font-size: 45px;
-    line-height: 1;
-    font-weight: bold;
-    margin-right: 9px;
-
+    font-size: 20px;
 }
 body {
   font-family: Arial;
