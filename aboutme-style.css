@@ -13,8 +13,6 @@ p2 {
     font-style: italic;
      color: rgb(255,248,107);  
 }
-
-
 li {
   color: white;
 }
@@ -23,6 +21,12 @@ h3 {
 }
 h1 {
      color: rgb(158, 193, 250);	
+}
+a:link {
+  text-decoration:none;
+}
+a:hover {
+  text-decoration:underline;
 }
 a {
   color: rgb(215, 79, 74);
